@@ -1,0 +1,31 @@
+_repo: Voyage-en-Abyssinie-et-au-Harrar_73889
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rimbaud, Arthur
+    alias: Rimbaud, Jean Nicolas Arthur
+    birthdate: 1854
+    deathdate: 1891
+    gutenberg_agent_id: '33825'
+    url: http://www.gutenberg.org/2009/agents/33825
+    wikipedia: http://fr.wikipedia.org/wiki/Arthur_Rimbaud
+description: ''
+gutenberg_issued: '2024-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73889'
+language: fr
+pgterms:marc904: https://books.google.com/books?id=l7NKAAAAMAAJ
+pgterms:marc905: 20240313233127rimbaud
+pgterms:marc906: '1928'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: '  $aParis :$bLa centaine, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Voyage en Abyssinie et au Harrar
+url: http://www.gutenberg.org/ebooks/73889
