@@ -1,5 +1,8 @@
 _repo: Voyage-en-Abyssinie-et-au-Harrar_73889
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73889-h/images/cover.jpg
 creator:
   author:
     agent_name: Rimbaud, Arthur
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33825
     wikipedia: http://fr.wikipedia.org/wiki/Arthur_Rimbaud
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73889#Voyage-en-Abyssinie-et-au-Harrar
 gutenberg_issued: '2024-06-22'
 gutenberg_type: Text
 identifiers:
